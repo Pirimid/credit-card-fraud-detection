@@ -23,7 +23,7 @@ We have not used deep learning models as it requires much more data to get bette
 
 ### Visualizations 
  #### Class imbalance 
- ![Class imbalance](images/class_dist.png) 
+ ![Class imbalance](images/class_dist.PNG) 
  * WE can see big imbalance in our two classes here. 
 
  #### Distribution of amount and time

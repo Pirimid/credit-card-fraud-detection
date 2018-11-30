@@ -20,3 +20,25 @@ We have used simple models and not the very complex techniques as that is not so
  4. K-Neighbours 
 
 We have not used deep learning models as it requires much more data to get better results and the dataset is not big as well as skewed. 
+
+### Visualizations 
+ #### Class imbalance 
+ ![Class imbalance](images/class_dist.png) 
+ * WE can see big imbalance in our two classes here. 
+
+ #### Distribution of amount and time
+ ![Amount/time](images/amount_time_dist.png)
+ * The time and amount are distributed as shown in figures.
+
+ #### Correlation of imbalanced data
+ ![Corr_imbalance](images/corr_imbalanced.ong)
+ * The correlation of different features are plotted in the matrix.
+ * We can see there is not much correlation here. 
+
+ #### Correlation of balanced data
+ ![corr_balance](images/corr_balanced.png)
+ * We can see the correlation is high compared to unbalance data. 
+
+ #### Confusion matrix
+ ![confusion_matrix](images/confusion_mat.png)
+ * This is the confusion matrix of Logistic Regression model for fraud and non-fraud transaction.

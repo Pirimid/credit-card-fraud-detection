@@ -27,18 +27,18 @@ We have not used deep learning models as it requires much more data to get bette
  * WE can see big imbalance in our two classes here. 
 
  #### Distribution of amount and time
- ![Amount/time](images/amount_time_dist.png)
+ ![Amount/time](images/amount_time_dist.PNG)
  * The time and amount are distributed as shown in figures.
 
  #### Correlation of imbalanced data
- ![Corr_imbalance](images/corr_imbalanced.ong)
+ ![Corr_imbalance](images/corr_imbalanced.PNG)
  * The correlation of different features are plotted in the matrix.
  * We can see there is not much correlation here. 
 
  #### Correlation of balanced data
- ![corr_balance](images/corr_balanced.png)
+ ![corr_balance](images/corr_balanced.PNG)
  * We can see the correlation is high compared to unbalance data. 
 
  #### Confusion matrix
- ![confusion_matrix](images/confusion_mat.png)
+ ![confusion_matrix](images/confusion_mat.PNG)
  * This is the confusion matrix of Logistic Regression model for fraud and non-fraud transaction.
